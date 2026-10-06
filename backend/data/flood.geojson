@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "name": "simulated_flood_rajanpur_2026",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Main inundation", "depth_m": 1.5},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[70.20, 29.00], [70.34, 28.97], [70.46, 29.02], [70.48, 29.14], [70.40, 29.22], [70.26, 29.20], [70.20, 29.10], [70.20, 29.00]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Deep core", "depth_m": 3.0},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[70.38, 29.06], [70.46, 29.06], [70.46, 29.14], [70.38, 29.14], [70.38, 29.06]]]
+      }
+    }
+  ]
+}

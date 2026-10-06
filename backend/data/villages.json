@@ -1,0 +1,18 @@
+[
+  {"id": "H01", "name": "Basti Mithwan",     "lat": 29.05, "lon": 70.30, "population": 2400, "district": "Rajanpur", "rep": "Malik Aslam"},
+  {"id": "H02", "name": "Basti Jindwala",    "lat": 29.10, "lon": 70.25, "population": 1800, "district": "Rajanpur", "rep": "Haji Nazir"},
+  {"id": "H03", "name": "Chak Mehrabpur",    "lat": 29.14, "lon": 70.34, "population": 3100, "district": "Rajanpur", "rep": "Mian Rafiq"},
+  {"id": "H04", "name": "Basti Lundan",      "lat": 29.04, "lon": 70.43, "population": 950,  "district": "Rajanpur", "rep": "Ghulam Qadir"},
+  {"id": "H05", "name": "Mauza Daman Wala",  "lat": 29.17, "lon": 70.38, "population": 1500, "district": "Rajanpur", "rep": "Sardar Bakhsh"},
+  {"id": "H06", "name": "Basti Rind Abad",   "lat": 29.10, "lon": 70.44, "population": 2200, "district": "Rajanpur", "rep": "Rind Sahib"},
+  {"id": "H07", "name": "Mauza Sheikhan",    "lat": 29.18, "lon": 70.27, "population": 700,  "district": "Rajanpur", "rep": "Sheikh Tariq"},
+  {"id": "H08", "name": "Basti Kalra",       "lat": 29.01, "lon": 70.27, "population": 600,  "district": "Rajanpur", "rep": "Kalra Sahib"},
+  {"id": "H09", "name": "Chak Noor Pur",     "lat": 29.09, "lon": 70.33, "population": 1200, "district": "Rajanpur", "rep": "Noor Muhammad"},
+  {"id": "H10", "name": "Rojhan Khurd",      "lat": 29.10, "lon": 70.15, "population": 4200, "district": "Rajanpur", "rep": "Chaudhry Anwar"},
+  {"id": "H11", "name": "Basti Fazil Pur",   "lat": 29.08, "lon": 70.16, "population": 3000, "district": "Rajanpur", "rep": "Fazil Khan"},
+  {"id": "H12", "name": "Chak Shahbaz",      "lat": 28.93, "lon": 70.30, "population": 2800, "district": "Rajanpur", "rep": "Shahbaz Ali"},
+  {"id": "H13", "name": "Mauza Ghazi Pur",   "lat": 28.95, "lon": 70.22, "population": 1900, "district": "Rajanpur", "rep": "Ghazi Khan"},
+  {"id": "H14", "name": "Basti Qaimpur",     "lat": 29.00, "lon": 70.50, "population": 2100, "district": "Rajanpur", "rep": "Qaim Din"},
+  {"id": "H15", "name": "Basti Pathan",      "lat": 29.08, "lon": 70.53, "population": 1700, "district": "Rajanpur", "rep": "Pathan Sahib"},
+  {"id": "H16", "name": "Mauza Tibbi",       "lat": 29.26, "lon": 70.33, "population": 1700, "district": "Rajanpur", "rep": "Tibbi Wala"}
+]

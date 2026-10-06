@@ -1,0 +1,14 @@
+[
+  {"id": "S1", "village_id": "H01", "ts": "2026-10-03T09:12:00", "text": "Water in houses, need boat"},
+  {"id": "S2", "village_id": "H01", "ts": "2026-10-03T09:40:00", "text": "Elderly stuck on roof"},
+  {"id": "S3", "village_id": "H01", "ts": "2026-10-03T10:05:00", "text": "No food since yesterday"},
+  {"id": "S4", "village_id": "H03", "ts": "2026-10-03T08:55:00", "text": "Bridge washed away"},
+  {"id": "S5", "village_id": "H03", "ts": "2026-10-03T09:02:00", "text": "Children trapped"},
+  {"id": "S6", "village_id": "H03", "ts": "2026-10-03T09:30:00", "text": "Need medical help"},
+  {"id": "S7", "village_id": "H03", "ts": "2026-10-03T10:20:00", "text": "Water rising fast"},
+  {"id": "S8", "village_id": "H03", "ts": "2026-10-03T10:41:00", "text": "Livestock lost, family on rooftop"},
+  {"id": "S9", "village_id": "H05", "ts": "2026-10-03T09:50:00", "text": "Road cut off"},
+  {"id": "S10", "village_id": "H05", "ts": "2026-10-03T10:15:00", "text": "Need drinking water"},
+  {"id": "S11", "village_id": "H07", "ts": "2026-10-03T10:30:00", "text": "Need rescue"},
+  {"id": "S12", "village_id": "H09", "ts": "2026-10-03T10:50:00", "text": "Pregnant woman needs evacuation"}
+]

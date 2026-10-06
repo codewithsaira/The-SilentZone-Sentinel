@@ -1,0 +1,43 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "name": "System Administrator",
+    "email": "admin@silentzonesentinel.pk",
+    "role": "Admin",
+    "verified": true
+  },
+  "junaid": {
+    "username": "junaid",
+    "password": "f882312d8a0ebc028c2c62c95e1e55d60ee464dfd604b7be891ce5c9c9b5f928",
+    "name": "Malik Junaid Ahmad",
+    "email": "junaid@silentzonesentinel.pk",
+    "role": "Lead Researcher & Developer",
+    "verified": true
+  },
+  "sairakhan": {
+    "username": "sairakhan",
+    "password": "2817d2358893bd9f12bb09670f5e1f13ae92795f590b106260ab5ebaaee43ccb",
+    "name": "Saira Khan",
+    "email": "saira@silentzonesentinel.pk",
+    "role": "Lead System Architect & Engineer",
+    "verified": true
+  },
+  "saira": {
+    "username": "saira",
+    "password": "2817d2358893bd9f12bb09670f5e1f13ae92795f590b106260ab5ebaaee43ccb",
+    "name": "Saira Khan",
+    "email": "saira.khan@silentzonesentinel.pk",
+    "role": "Lead System Architect & Engineer",
+    "verified": true
+  },
+  "szkundi": {
+    "username": "szkundi",
+    "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+    "name": "Muhammad Shahzaib",
+    "email": "szkundi8@gmail.com",
+    "role": "Field Coordinator",
+    "verified": true,
+    "created_at": "2026-10-03 17:45:59"
+  }
+}
